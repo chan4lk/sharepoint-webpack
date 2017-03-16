@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f0cc7bc3-20ba-48a9-a7a4-c47124355504" solutionId="f0cc7bc3-20ba-48a9-a7a4-c47124355504" resetWebServer="false" sharePointProductVersion="16.0" name="WebpackTest4" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="e5b6c4aa-5da6-45bf-adab-ea048be3a7ba" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="983a1193-8516-4619-939e-6e903607d90f" />
+  </projectItems>
+</package>
